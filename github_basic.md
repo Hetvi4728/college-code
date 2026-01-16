@@ -35,3 +35,14 @@ git branch
 ```
 git checkout -b <branch name>
 ```
+
+9. switch branch
+
+```
+git chekcout <branch name>
+```
+
+10. merge two branches 
+```
+git merge <branch name>
+```
