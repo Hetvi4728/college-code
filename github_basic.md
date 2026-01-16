@@ -1,0 +1,37 @@
+1. create a repo "name1"
+2. clone repo 
+```
+git clone <link>
+```
+3. open repo
+
+```
+cd <repo name>
+```
+
+4. add file 
+```
+git add <file name>
+```
+
+5. commit the file
+```
+git commit -m "message"
+```
+
+6. push to main branch
+```
+git push
+``` 
+### advance github 
+
+7. check branch 
+```
+git branch
+```
+
+8. checkout branch and switching also
+
+```
+git checkout -b <branch name>
+```
