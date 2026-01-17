@@ -1,4 +1,4 @@
-/*Prints the table*/
+/*Print the table*/
 
 #include<iostream>
 using namespace std;
