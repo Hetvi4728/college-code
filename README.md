@@ -15,16 +15,11 @@ Each concept is demonstrated with **simple, easy-to-understand code**.
   - Inheritance
   - Polymorphism (Compile-time & Run-time)
   - Encapsulation & Abstraction
-- **Advanced Concepts**:
-  - Templates (Function & Class Templates)
-  - Exception Handling
-  - File Handling
-  - Standard Template Library (STL): vector, list, map, set, stack, queue
 - **Others**:
   - Pointers & Dynamic Memory
   - Operator Overloading
   - Namespaces
-  - Lambda Functions
+  - Function Overloading
 
 
 ## Author
